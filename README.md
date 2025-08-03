@@ -1,2 +1,2 @@
 # html-Resume
-Simple Portfolio built using HTML
+Simple Resume built using HTML
